@@ -158,3 +158,27 @@ $x^*(\tau+1)$. Тогда в этот момент времени решается задача о минимизации следующ
 
 \section{Представление входных и выходных сигналов дискретных стационарных линейных систем на основе
 матрицы Ганкеля}\label{3sec:SIG}
+
+\subsection{Построение матрицы Ганкеля}
+Рассмотрим систему с $u(k) \in \mathbb{R}^l, y(k) \in \mathbb{R}^m, x(k) \in \mathbb{R}^n$ :
+\begin{center}
+	$x(k+1)=Ax(k)+Bu(k)+Ke(k)$
+\end{center}
+\begin{center}
+	$y(k)=Cx(k)+Du(k)+e(k)$
+\end{center}
+где $B \in \mathbb{R}^{n \times l}, C \in \mathbb{R}^{m \times n}, D \in \mathbb{R}^{m \times l}$ -- матрицы системы.
+Траектория сигналов $z_d=z(1),\dots,z(k),\dots,z(T)) \in (\mathbb{R}^z)^T$
+линейной многомерной системы $P$. Система $P$ удовлетворяет $P \subset (\mathbb{R}^z)^T $  с сегментом ввода-вывода $z= \begin{bmatrix} u \\ y \end{bmatrix} \in P$, где $u \in (\mathbb{R}^m)^N $ -- ввод, $y \in (\mathbb{R}^l)^N$ -- вывод.
+
+Матрица Ганкеля $H(z_d)$ с $N$ строками и $T-N$ столбцами составленная из ограниченного сигнала $z_d \in (R^z)^T$ обозначается как: 
+\begin{equation}\label{H(z_d)}
+	H(z_d)= \begin{pmatrix}
+	z(1) && z(2) && \cdots && z(T-N+1) \\
+	z(2) && z(3) && \cdots && z(T-N+2) \\
+	\vdots && \vdots && \cdots && \vdots \\
+	z(N) && z(N+1) && \cdots && z(T)
+	\end{pmatrix}
+\end{equation}
+Построенная матрица будет использоваться в MPC вместо модели без каких-либо промежуточных шагов.
+ 
