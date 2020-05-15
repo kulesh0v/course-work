@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  13 MAY 2020 13:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  16 MAY 2020 00:37
 entering extended mode
 **./CourseWork.tex
 (CourseWork.tex
@@ -774,6 +774,12 @@ LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 4
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 
+LaTeX Warning: Label `2sec:xxx' multiply defined.
+
+
+LaTeX Warning: Label `2sec:xxx' multiply defined.
+
+
 LaTeX Warning: Label `Kryazhimski' multiply defined.
 
 )
@@ -888,28 +894,41 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 \c@Def=\count296
 
-Underfull \hbox (badness 1590) in paragraph at lines 58--60
+Underfull \hbox (badness 2735) in paragraph at lines 58--60
 []\T2A/cmr/m/n/14.4 Обозначим оп-ти-маль-ное про-грамм-ное ре-ше-ние за-да-чи (
-1.15) че-рез
+1.2[]) че-рез
  []
 
 [6] [7]
 \c@Th=\count297
  [8]) (chapter2.tex [9]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-) (conclusions.tex [10
+[10
 
-]) (bibliography.tex [11
+] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+ |[]\T2A/cmr/bx/n/17.28 Задача с тер-ми-наль-ны-ми ограничениями-
+ []
 
-] [12
+[12]
+\c@algorithm=\count298
+\c@assump=\count299
+ [13]
 
-] [13]
+LaTeX Warning: Command \cyrh invalid in math mode on input line 195.
+
+Missing character: There is no х in font cmr12!
+) (conclusions.tex [14]) (bibliography.tex [15
+
+] [16
+
+] [17]
 Underfull \hbox (badness 1163) in paragraph at lines 88--93
 []\T2A/cmr/m/n/14.4 Кириллова, Ф.М. Син-тез оп-ти-маль-ных си-стем -- оп-ти-мал
 ь-ное
  []
 
-[14]
+[18]
 Underfull \hbox (badness 7064) in paragraph at lines 160--162
 []\T2A/cmr/m/n/14.4 Karmarkar, N. A new polynomial-time algorithm for linear
  []
@@ -920,19 +939,19 @@ Underfull \hbox (badness 2343) in paragraph at lines 176--178
 l of
  []
 
-[15]) [16] (CourseWork.aux)
+[19]) [20] (CourseWork.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15515 strings out of 480930
- 290191 string characters out of 2909551
- 525934 words of memory out of 3000000
- 31056 multiletter control sequences out of 15000+200000
+ 15541 strings out of 480930
+ 290478 string characters out of 2909551
+ 528082 words of memory out of 3000000
+ 31082 multiletter control sequences out of 15000+200000
  539401 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,64p,1394b,241s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,9n,64p,1394b,241s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\t
 crm1440.pk> <C:\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/d
 pi600\lati1440.pk> <C:\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/l
@@ -947,9 +966,9 @@ amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on CourseWork.pdf (16 pages, 214336 bytes).
+Output written on CourseWork.pdf (20 pages, 250683 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
+ 396 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
