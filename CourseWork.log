@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  18 MAY 2020 15:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  1 JUN 2020 17:02
 entering extended mode
 **./CourseWork.tex
 (CourseWork.tex
@@ -855,29 +855,22 @@ Overfull \hbox (28.45271pt too wide) in paragraph at lines 32--32
 
 {C:/Users/Vlad/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (CourseWork.toc
-Overfull \hbox (7.9181pt too wide) detected at line 5
+Overfull \hbox (7.9181pt too wide) detected at line 4
 \T2A/cmr/bx/n/14.4 1 
  []
 
 
-Overfull \hbox (7.9181pt too wide) detected at line 14
+Overfull \hbox (7.9181pt too wide) detected at line 10
 \T2A/cmr/bx/n/14.4 2 
- []
-
-
-Overfull \hbox (7.9181pt too wide) detected at line 19
-\T2A/cmr/bx/n/14.4 3 
  []
 
 )
 \tf@toc=\write4
 \openout4 = `CourseWork.toc'.
 
- (referat.tex [2
+ (intro.tex [2
 
-]) (intro.tex [3
-
-]) (chapter1.tex [4
+]) (chapter1.tex [3
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
@@ -893,56 +886,40 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \c@Def=\count296
- [5
+ [4
 
 ]
-Underfull \hbox (badness 2735) in paragraph at lines 54--56
+Underfull \hbox (badness 2735) in paragraph at lines 55--57
 []\T2A/cmr/m/n/14.4 ќбозначим оп-ти-маль-ное про-грамм-ное ре-ше-ние за-да-чи (
 1.2[]) че-рез
  []
 
-[6]
+[5]
 Underfull \hbox (badness 1097) in paragraph at lines 99--100
 []\T2A/cmr/m/n/14.4 на пра-вом кон-це тра-ек-то-рии(терминальные огра-ни-че-ни€
 ), т.е.
  []
 
-\c@Th=\count297
-[7] [8] [9] [10]) (chapter2.tex [11]
+[6] [7] [8] [9]) (chapter2.tex [10]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-[12
+[11
 
-] [13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
+] [12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
  |[]\T2A/cmr/bx/n/17.28 «адача с тер-ми-наль-ны-ми ограничени€ми-
  []
 
-[15]
-\c@algorithm=\count298
-\c@assump=\count299
- [16]
+\c@algorithm=\count297
+[14]
+\c@assump=\count298
+ [15]
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 195.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 187.
 
 Missing character: There is no х in font cmr12!
-[17]) (chapter3.tex [18]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-<./1.png, id=74, 269.20575pt x 167.4255pt>
-File: ./1.png Graphic file (type png)
-<use ./1.png>
-Package pdftex.def Info: ./1.png  used on input line 26.
-(pdftex.def)             Requested size: 269.20508pt x 167.42508pt.
-<./2.png, id=76, 274.02374pt x 166.82326pt>
-File: ./2.png Graphic file (type png)
-<use ./2.png>
-Package pdftex.def Info: ./2.png  used on input line 29.
-(pdftex.def)             Requested size: 274.02307pt x 166.82285pt.
-[19
+) (conclusions.tex [16]) (bibliography.tex [17
 
- <./1.png>]) (conclusions.tex [20 <./2.png>]) (bibliography.tex [21
-
-])
-[22
+]) [18
 
 ] (CourseWork.aux)
 
@@ -950,11 +927,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15504 strings out of 480930
- 289888 string characters out of 2909551
- 529902 words of memory out of 3000000
- 31040 multiletter control sequences out of 15000+200000
- 539401 words of font info for 41 fonts, out of 3000000 for 9000
+ 15471 strings out of 480930
+ 289563 string characters out of 2909550
+ 529887 words of memory out of 3000000
+ 31015 multiletter control sequences out of 15000+200000
+ 538527 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,14n,64p,1394b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\t
@@ -970,9 +947,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/symbols/msbm10.pfb>
-Output written on CourseWork.pdf (22 pages, 285717 bytes).
+Output written on CourseWork.pdf (18 pages, 239818 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
+ 361 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

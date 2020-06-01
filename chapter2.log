@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  16 MAY 2020 18:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  20 MAY 2020 14:59
 entering extended mode
 **./chapter2.tex
 (chapter2.tex
@@ -2249,14 +2249,14 @@ cmr/m/n/10 )\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 ;$
  []
 
 
-Overfull \hbox (184.86842pt too wide) detected at line 20
+Overfull \hbox (187.64621pt too wide) detected at line 20
 \OML/cmm/m/it/10 []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 1\OML/cm
 m/m/it/10 ; P\OT1/cmr/m/n/10 2) = []\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 []\OT1/
 cmr/m/n/10 (\OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; []\OT1/cmr
-/m/n/10 (\OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 g
+/m/n/10 (\OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 g\OML/cmm/m/it/1
+0 :
  []
 
-Missing character: There is no . in font nullfont!
 
 ! Package inputenc Error: Invalid UTF-8 byte sequence.
 
@@ -2590,8 +2590,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 По
-       следовательность $\{x_k\}^{N-1}_{k=0}$ иницирует матрицу Ганкеля
+l.25 Из
+        последовательности $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -2605,8 +2605,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 Послед
-           овательность $\{x_k\}^{N-1}_{k=0}$ иницирует матрицу Ганкеля
+l.25 Из пос
+           ледовательности $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -2620,8 +2620,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 Последова
-              тельность $\{x_k\}^{N-1}_{k=0}$ иницирует матрицу Ганкеля
+l.25 Из послед
+              овательности $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -2635,8 +2635,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 Последователь
-                  ность $\{x_k\}^{N-1}_{k=0}$ иницирует матрицу Ганкеля
+l.25 Из последова
+                 тельности $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -2650,8 +2650,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 Последовательнос
-                     ть $\{x_k\}^{N-1}_{k=0}$ иницирует матрицу Ганкеля
+l.25 Из последователь
+                     ности $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -2665,26 +2665,29 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 Последовательность $\{
-                           x_k\}^{N-1}_{k=0}$ иницирует матрицу Ганкеля
+l.25 Из последовательнос
+                        ти $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
 in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
-Missing character: There is no x in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.25 Последовательность $\{x_
-                             k\}^{N-1}_{k=0}$ иницирует матрицу Ганкеля
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 Из последовательности $\{
+                              x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 137 strings out of 480930
- 1173 string characters out of 2909551
+ 139 strings out of 480930
+ 1324 string characters out of 2909551
  240229 words of memory out of 3000000
- 16109 multiletter control sequences out of 15000+200000
+ 16110 multiletter control sequences out of 15000+200000
  532338 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  18i,3n,15p,186b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
