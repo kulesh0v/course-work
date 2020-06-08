@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  1 JUN 2020 17:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  4 JUN 2020 22:31
 entering extended mode
 **./CourseWork.tex
 (CourseWork.tex
@@ -905,7 +905,7 @@ Underfull \hbox (badness 1097) in paragraph at lines 99--100
 [11
 
 ] [12] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
  |[]\T2A/cmr/bx/n/17.28 «адача с тер-ми-наль-ны-ми ограничени€ми-
  []
 
@@ -914,12 +914,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--108
 \c@assump=\count298
  [15]
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 187.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 195.
 
 Missing character: There is no х in font cmr12!
-) (conclusions.tex [16]) (bibliography.tex [17
+[16]) (conclusions.tex [17]) (bibliography.tex [18
 
-]) [18
+]) [19
 
 ] (CourseWork.aux)
 
@@ -927,10 +927,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15471 strings out of 480930
- 289563 string characters out of 2909550
- 529887 words of memory out of 3000000
- 31015 multiletter control sequences out of 15000+200000
+ 15472 strings out of 480930
+ 289566 string characters out of 2909550
+ 529898 words of memory out of 3000000
+ 31016 multiletter control sequences out of 15000+200000
  538527 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,14n,64p,1394b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -947,9 +947,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/symbols/msbm10.pfb>
-Output written on CourseWork.pdf (18 pages, 239818 bytes).
+Output written on CourseWork.pdf (19 pages, 240777 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
+ 365 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

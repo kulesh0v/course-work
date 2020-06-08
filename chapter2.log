@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  20 MAY 2020 14:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  1 JUN 2020 17:16
 entering extended mode
 **./chapter2.tex
 (chapter2.tex
@@ -1145,7 +1145,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.8 Пу
-      сть $A_{[a,b]}$ -множество целых чисел на отрезке $[a,b]$.
+      сть $A_{[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1160,7 +1160,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.8 Пусть $
-           A_{[a,b]}$ -множество целых чисел на отрезке $[a,b]$.
+           A_{[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1175,7 +1175,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.8 Пусть $A
-            _{[a,b]}$ -множество целых чисел на отрезке $[a,b]$.
+            _{[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1184,7 +1184,7 @@ Missing character: There is no A in font nullfont!
 <inserted text> 
                 $
 l.8 Пусть $A_
-             {[a,b]}$ -множество целых чисел на отрезке $[a,b]$.
+             {[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -1193,6 +1193,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 8.
 Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
 
 ! Package inputenc Error: Invalid UTF-8 byte sequence.
 
@@ -1200,8 +1201,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -мно
-                          жество целых чисел на отрезке $[a,b]$.
+l.8 Пусть $A_{[a,b]}$ -- мно
+                            жество целых чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1215,8 +1216,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -множес
-                             тво целых чисел на отрезке $[a,b]$.
+l.8 Пусть $A_{[a,b]}$ -- множес
+                               тво целых чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1230,8 +1231,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -множество ц
-                                  елых чисел на отрезке $[a,b]$.
+l.8 Пусть $A_{[a,b]}$ -- множество ц
+                                    елых чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1245,8 +1246,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -множество целы
-                                     х чисел на отрезке $[a,b]$.
+l.8 Пусть $A_{[a,b]}$ -- множество целы
+                                       х чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1260,8 +1261,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -множество целых
-                                       чисел на отрезке $[a,b]$.
+l.8 Пусть $A_{[a,b]}$ -- множество целых
+                                         чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1275,8 +1276,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -множество целых ч
-                                        исел на отрезке $[a,b]$.
+l.8 Пусть $A_{[a,b]}$ -- множество целых ч
+                                          исел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1290,8 +1291,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -множество целых чисе
-                                           л на отрезке $[a,b]$.
+l.8 Пусть $A_{[a,b]}$ -- множество целых чисе
+                                             л на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1305,8 +1306,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -множество целых чисел на
-                                                отрезке $[a,b]$.
+l.8 Пусть $A_{[a,b]}$ -- множество целых чисел на
+                                                  отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1320,7 +1321,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ь $A_{[a,b]}$ -множество целых чисел на отр
+l.8 ...$A_{[a,b]}$ -- множество целых чисел на отр
                                                   езке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1335,7 +1336,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...A_{[a,b]}$ -множество целых чисел на отрезк
+l.8 ...{[a,b]}$ -- множество целых чисел на отрезк
                                                   е $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1350,7 +1351,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...a,b]}$ -множество целых чисел на отрезке $[
+l.8 ...b]}$ -- множество целых чисел на отрезке $[
                                                   a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -2685,7 +2686,7 @@ l.25 Из последовательности $\{
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
  139 strings out of 480930
- 1324 string characters out of 2909551
+ 1324 string characters out of 2909550
  240229 words of memory out of 3000000
  16110 multiletter control sequences out of 15000+200000
  532338 words of font info for 24 fonts, out of 3000000 for 9000
