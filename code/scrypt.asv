@@ -24,7 +24,7 @@ A = [
  N = 100;
  uSteady = [1; 1];
  ySteady = [0.65; 0.77];
- L = 20;
+ L = 30;
  n = 4;
  m = 2;
  p = 2;
@@ -42,7 +42,6 @@ curX = zeros(1, 4)';
 
 for i = 1:N
     uData(1, [i * 2 - 1 i * 2]) = [ - 1 + 2 / N * (i - 1)];
-%     uData(1, [i * 2 - 1 i * 2]) = [-1 + rand * 2 -1 + rand * 2];
     yData(1, [i * 2 - 1 i * 2]) = [(C * curX)];
     curX = A * curX + B * uData(1, [i * 2 - 1 i * 2])';
 end
@@ -107,12 +106,13 @@ for t = 0:N
     res = res(1:(L + n) * 4);
     j = timeIndex - n;
     for i = 1:4:(L + n) * 4
+        disp(j);
         uRes(j, 1) = res(i);
         uRes(j, 2) = res(i + 1);
         [dsResY, dsResX] = dynamicSystemFunc(uRes(j,:)', xRes(j,:)', A, B, C);
-%           yRes(j, 1) = res(i + 2);
-%           yRes(j, 2) = res(i + 3);
-         yRes(j,:) = dsResY;
+%          yRes(j, 1) = res(i + 2);
+%          yRes(j, 2) = res(i + 3);
+        yRes(j,:) = dsResY;
         j = j + 1;
         xRes(j,:) = dsResX';
     end
@@ -129,17 +129,9 @@ for t = 0:N
 %         yRes(j, 2) = newY(2);
     %disp(res); 
 end
-hold off;
 
 hold on;
-plot(yRes(:, 1));
-plot(ones(N + 10, 1) * (ySteady(1)))
-plot(yRes(:, 2));
-plot(ones(N + 10, 1) * (ySteady(2)))
-ylim([0, 1.2]);
-xlim([0,N+10]);
-hold off;
-
+plot
 
 %fclose(fileID);
 
