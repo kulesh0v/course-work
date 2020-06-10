@@ -103,6 +103,8 @@ for t = 0:N
         beq((L + n) * 4 - n * 4 + 1:(L + n) * 4) ...
         zeros(1, N - (L + n) + 1)
     ];
+%     options = optimoptions('fmincon','MaxIterations', 2000);
+%    [res, value] = fmincon(objective, startedValues, [], [], Aeq, beq', [], [], [], options);
     [res, value] = fmincon(objective, startedValues, [], [], Aeq, beq');
     res = res(1:(L + n) * 4);
     j = timeIndex - n;
@@ -132,8 +134,8 @@ end
 hold off;
 
 hold on;
-plot(yRes(:, 1));
-plot(ones(N + 10, 1) * (ySteady(1)))
+plot(yRes(:, 2));
+plot(ones(N + 10, 1) * (ySteady(2)))
 ylim([0, 1.2]);
 xlim([0,N+10]);
 plot(yRes(:, 2));

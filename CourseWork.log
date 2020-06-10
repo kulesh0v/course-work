@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  10 JUN 2020 04:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  10 JUN 2020 16:41
 entering extended mode
 **./CourseWork.tex
 (CourseWork.tex
@@ -761,11 +761,39 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 ("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titletoc.sty"
 Package: titletoc 2019/10/16 v2.13 TOC entries
 \ttl@leftsep=\dimen267
+)) (mcode.sty
+-- Package: `mcode' 2.7 <2015/11/11> --
+Package: mcode 2015/11/11 2.7
+ - settings optimized for display (colour formating)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+\lst@mode=\count289
+\lst@gtempboxa=\box59
+\lst@token=\toks37
+\lst@length=\count290
+\lst@currlwidth=\dimen268
+\lst@column=\count291
+\lst@pos=\count292
+\lst@lostspace=\dimen269
+\lst@width=\dimen270
+\lst@newlines=\count293
+\lst@lineno=\count294
+\lst@maxwidth=\dimen271
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count295
+\lst@skipnumbers=\count296
+\lst@framebox=\box60
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count289
-\l__pdf_internal_box=\box59
+\l__kernel_color_stack_int=\count297
+\l__pdf_internal_box=\box61
 )
 (CourseWork.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 4
@@ -779,41 +807,38 @@ LaTeX Warning: Label `2sec:xxx' multiply defined.
 
 LaTeX Warning: Label `2sec:xxx' multiply defined.
 
-
-LaTeX Warning: Label `y1' multiply defined.
-
 )
 \openout1 = `CourseWork.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen268
-\scratchbox=\box60
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen269
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks38
+\scratchcounter=\count298
+\scratchdimen=\dimen272
+\scratchbox=\box62
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen273
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks39
 ) ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -849,8 +874,9 @@ LaTeX Font Info:    ... okay on input line 7.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+\c@lstlisting=\count304
 
-Overfull \hbox (28.45271pt too wide) in paragraph at lines 32--32
+Overfull \hbox (28.45271pt too wide) in paragraph at lines 33--33
 []| [] 
  []
 
@@ -893,7 +919,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\c@Def=\count296
+\c@Def=\count305
  [4
 
 ]
@@ -917,9 +943,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--116
  |[]\T2A/cmr/bx/n/17.28 «адача с тер-ми-наль-ны-ми ограничени€ми-
  []
 
-\c@algorithm=\count297
+\c@algorithm=\count306
 [14]
-\c@assump=\count298
+\c@assump=\count307
  [15]
 
 LaTeX Warning: Command \cyrh invalid in math mode on input line 195.
@@ -930,78 +956,107 @@ Missing character: There is no х in font cmr12!
 [18
 
 ]
+LaTeX Font Info:    Trying to load font information for T2A+pcr on input line 4
+7.
+LaTeX Font Info:    No file T2Apcr.fd. on input line 47.
+
+
+LaTeX Font Warning: Font shape `T2A/pcr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 47.
+
+LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 4
+8.
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ts1pcr.fd"
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+) [19]
 Package epstopdf Info: Source file: <res_y1.eps>
-(epstopdf)                    date: 2020-06-10 04:29:00
-(epstopdf)                    size: 19425 bytes
+(epstopdf)                    date: 2020-06-10 16:36:14
+(epstopdf)                    size: 24943 bytes
 (epstopdf)             Output file: <res_y1-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-06-10 04:29:24
-(epstopdf)                    size: 5674 bytes
+(epstopdf)                    date: 2020-06-10 16:36:48
+(epstopdf)                    size: 8640 bytes
 (epstopdf)             Command: <epstopdf --outfile=res_y1-eps-converted-to.pdf
  res_y1.eps>
-(epstopdf)             \includegraphics on input line 48.
+(epstopdf)             \includegraphics on input line 105.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./res_y1-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<res_y1-eps-converted-to.pdf, id=74, 421.575pt x 316.18124pt>
+<res_y1-eps-converted-to.pdf, id=80, 576.1525pt x 367.3725pt>
 File: res_y1-eps-converted-to.pdf Graphic file (type pdf)
 <use res_y1-eps-converted-to.pdf>
-Package pdftex.def Info: res_y1-eps-converted-to.pdf  used on input line 48.
-(pdftex.def)             Requested size: 341.43306pt x 256.08127pt.
+Package pdftex.def Info: res_y1-eps-converted-to.pdf  used on input line 105.
+(pdftex.def)             Requested size: 256.0748pt x 163.28683pt.
+
+Overfull \hbox (19.06068pt too wide) in paragraph at lines 105--107
+ [] 
+ []
+
 Package epstopdf Info: Source file: <res_y2.eps>
-(epstopdf)                    date: 2020-06-10 04:30:08
-(epstopdf)                    size: 19436 bytes
+(epstopdf)                    date: 2020-06-10 16:37:08
+(epstopdf)                    size: 24945 bytes
 (epstopdf)             Output file: <res_y2-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-06-10 04:34:38
-(epstopdf)                    size: 5691 bytes
+(epstopdf)                    date: 2020-06-10 16:37:17
+(epstopdf)                    size: 8659 bytes
 (epstopdf)             Command: <epstopdf --outfile=res_y2-eps-converted-to.pdf
  res_y2.eps>
-(epstopdf)             \includegraphics on input line 56.
+(epstopdf)             \includegraphics on input line 110.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./res_y2-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<res_y2-eps-converted-to.pdf, id=75, 421.575pt x 316.18124pt>
+<res_y2-eps-converted-to.pdf, id=81, 576.1525pt x 367.3725pt>
 File: res_y2-eps-converted-to.pdf Graphic file (type pdf)
 <use res_y2-eps-converted-to.pdf>
-Package pdftex.def Info: res_y2-eps-converted-to.pdf  used on input line 56.
-(pdftex.def)             Requested size: 341.43306pt x 256.08127pt.
-) (conclusions.tex [19 <./res_y1-eps-converted-to.pdf>] [20 <./res_y2-eps-conve
-rted-to.pdf>]) (bibliography.tex [21
+Package pdftex.def Info: res_y2-eps-converted-to.pdf  used on input line 110.
+(pdftex.def)             Requested size: 256.0748pt x 163.28683pt.
+
+Overfull \hbox (19.06068pt too wide) in paragraph at lines 110--111
+ [] 
+ []
+
+) (conclusions.tex [20 <./res_y1-eps-converted-to.pdf> <./res_y2-eps-converted-
+to.pdf>]) (bibliography.tex [21
 
 ]) [22
 
 ] (CourseWork.aux)
 
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15490 strings out of 480930
- 289983 string characters out of 2909550
- 529917 words of memory out of 3000000
- 31029 multiletter control sequences out of 15000+200000
- 538527 words of font info for 40 fonts, out of 3000000 for 9000
+ 17239 strings out of 480930
+ 312846 string characters out of 2909550
+ 562852 words of memory out of 3000000
+ 32754 multiletter control sequences out of 15000+200000
+ 539916 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,14n,64p,1394b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\t
-crm1440.pk> <C:\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/d
-pi600\larm1440.pk> <C:\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\labx1728.pk> <C:\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\labx1440.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/symbols/msbm10.pfb>
-Output written on CourseWork.pdf (22 pages, 255342 bytes).
+ 68i,14n,64p,1394b,1626s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\Vlad\AppD
+ata\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Vl
+ad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:
+\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.
+pk> <C:\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+bx1728.pk> <C:\Users\Vlad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dp
+i600\labx1440.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/uc
+rr8a.pfb>
+Output written on CourseWork.pdf (22 pages, 282397 bytes).
 PDF statistics:
- 390 PDF objects out of 1000 (max. 8388607)
+ 451 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

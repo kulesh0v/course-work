@@ -41,21 +41,75 @@
 Предположим, что системные матрицы неизвестны, но доступна одна траектория ввода-вывода $\{u^d_k,y^d_k\}^{N-1}_{k=0}$ длины N = 100, которая генерируется путем равномерной выборки $u^d_k$ из $[-1,1]^2$.
 Горизонт прогнозирования установим в L = 25, а матрицы затрат $Q = 3 \cdot E_2$, $R = 10^{-4} \cdot E_2$.
 
+\section{Программная реализация алгоритма}
+Рассмотрим способ реализации алгоритма (\ref{Alg1}) на языке Matlab.
+Сперва зададим матрицу ограничений-равенств для fmincon.
+\begin{lstlisting}
+for i = 1:4:(L + n) * 4
+    Aeq(i, i) = 1;
+    Aeq(i + 1, i + 1) = 1;
+    Aeq(i + 2, i + 2) = 1;
+    Aeq(i + 3, i + 3) = 1;
+    hIndex = fix(i / 4) + 1;
+    Aeq(i, alphaRange) = -uHankel(hIndex, :, 1);
+    Aeq(i + 1, alphaRange) = -uHankel(hIndex, :, 2);
+    Aeq(i + 2, alphaRange) = -yHankel(hIndex, :, 1);
+    Aeq(i + 3, alphaRange) = -yHankel(hIndex, :, 2);
+end
+\end{lstlisting}
+После начнём итерационный процесс от $0$ до $N$.
+В начле которого будем вычеслять вектор ограничений.
+\begin{lstlisting}
+    for i = 1:4:L * 4
+        beq(i) = uRes(j, 1);
+        beq(i + 1) = uRes(j, 2);
+        beq(i + 2) = yRes(j, 1);
+        beq(i + 3) = yRes(j, 2);
+        j = j + 1;
+   end
+\end{lstlisting}
+И зададим терминальные ограничения.
+\begin{lstlisting}
+    for i = L * 4 + 1:4:(L + n) * 4
+        beq(i) = uSteady(1, 1);
+        beq(i + 1) = uSteady(2, 1);
+        beq(i + 2) = ySteady(1, 1);
+        beq(i + 3) = ySteady(2, 1);
+    end
+\end{lstlisting}
+Решим задачу (\ref{problem2a} - \ref{problem2d}) с помощью fmincon.
+\begin{lstlisting}
+[res, value] = fmincon(objective, startedValues, [], [], Aeq, beq, ...
+ [], [], [], options);
+\end{lstlisting}
+И запишем результат.
+\begin{lstlisting}
+    for i = 1:4:(L + n) * 4
+        uRes(j, 1) = res(i);
+        uRes(j, 2) = res(i + 1);
+        [dsResY, dsResX] = dynamicSystemFunc(uRes(j,:)', xRes(j,:)', A, B, C);
+         yRes(j,:) = dsResY;
+        j = j + 1;
+        xRes(j,:) = dsResX';
+    end
+\end{lstlisting}
+
+
+
 \section{Результаты}
+Ниже приведены графики результатов программы, описанной в прошлом пункте. На которых прямая -- соответсвующее значение  $y^s_{1}$, $y^s_{2}$.
 
-\begin{figure}[bh]
-\noindent\centering{
-\includegraphics[width=120mm]{res_y1.eps}
+\begin{figure}[bh]\centering{
+\begin{minipage}[h]{0.49\linewidth}
+\center{
+\includegraphics[width=90mm]{res_y1.eps}
 }
-\caption{Выходные данные $y_1$}
-\label{y1}
+\end{minipage}
+\hfill
+\begin{minipage}[h]{0.49\linewidth}
+\center{\includegraphics[width=90mm]{res_y2.eps}}
+\end{minipage}
+}
 \end{figure}
 
-\begin{figure}[bh]
-\noindent\centering{
-\includegraphics[width=120mm]{res_y2.eps}
-}
-\caption{Выходные данные $y_2$}
-\label{y1}
-\end{figure}
 
