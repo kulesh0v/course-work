@@ -134,6 +134,8 @@ hold off;
 hold on;
 plot(yRes(:, 1));
 plot(ones(N + 10, 1) * (ySteady(1)))
+ylim([0, 1.2]);
+xlim([0,N+10]);
 plot(yRes(:, 2));
 plot(ones(N + 10, 1) * (ySteady(2)))
 ylim([0, 1.2]);

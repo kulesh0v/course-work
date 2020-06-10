@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  4 JUN 2020 22:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  10 JUN 2020 04:36
 entering extended mode
 **./CourseWork.tex
 (CourseWork.tex
@@ -779,6 +779,9 @@ LaTeX Warning: Label `2sec:xxx' multiply defined.
 
 LaTeX Warning: Label `2sec:xxx' multiply defined.
 
+
+LaTeX Warning: Label `y1' multiply defined.
+
 )
 \openout1 = `CourseWork.aux'.
 
@@ -864,6 +867,11 @@ Overfull \hbox (7.9181pt too wide) detected at line 10
 \T2A/cmr/bx/n/14.4 2 
  []
 
+
+Overfull \hbox (7.9181pt too wide) detected at line 15
+\T2A/cmr/bx/n/14.4 3 
+ []
+
 )
 \tf@toc=\write4
 \openout4 = `CourseWork.toc'.
@@ -917,9 +925,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--116
 LaTeX Warning: Command \cyrh invalid in math mode on input line 195.
 
 Missing character: There is no õ in font cmr12!
-[16]) (conclusions.tex [17]) (bibliography.tex [18
+[16]) (chapter3.tex [17]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+[18
 
-]) [19
+]
+Package epstopdf Info: Source file: <res_y1.eps>
+(epstopdf)                    date: 2020-06-10 04:29:00
+(epstopdf)                    size: 19425 bytes
+(epstopdf)             Output file: <res_y1-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-06-10 04:29:24
+(epstopdf)                    size: 5674 bytes
+(epstopdf)             Command: <epstopdf --outfile=res_y1-eps-converted-to.pdf
+ res_y1.eps>
+(epstopdf)             \includegraphics on input line 48.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./res_y1-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<res_y1-eps-converted-to.pdf, id=74, 421.575pt x 316.18124pt>
+File: res_y1-eps-converted-to.pdf Graphic file (type pdf)
+<use res_y1-eps-converted-to.pdf>
+Package pdftex.def Info: res_y1-eps-converted-to.pdf  used on input line 48.
+(pdftex.def)             Requested size: 341.43306pt x 256.08127pt.
+Package epstopdf Info: Source file: <res_y2.eps>
+(epstopdf)                    date: 2020-06-10 04:30:08
+(epstopdf)                    size: 19436 bytes
+(epstopdf)             Output file: <res_y2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-06-10 04:34:38
+(epstopdf)                    size: 5691 bytes
+(epstopdf)             Command: <epstopdf --outfile=res_y2-eps-converted-to.pdf
+ res_y2.eps>
+(epstopdf)             \includegraphics on input line 56.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./res_y2-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<res_y2-eps-converted-to.pdf, id=75, 421.575pt x 316.18124pt>
+File: res_y2-eps-converted-to.pdf Graphic file (type pdf)
+<use res_y2-eps-converted-to.pdf>
+Package pdftex.def Info: res_y2-eps-converted-to.pdf  used on input line 56.
+(pdftex.def)             Requested size: 341.43306pt x 256.08127pt.
+) (conclusions.tex [19 <./res_y1-eps-converted-to.pdf>] [20 <./res_y2-eps-conve
+rted-to.pdf>]) (bibliography.tex [21
+
+]) [22
 
 ] (CourseWork.aux)
 
@@ -927,10 +979,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15472 strings out of 480930
- 289566 string characters out of 2909550
- 529898 words of memory out of 3000000
- 31016 multiletter control sequences out of 15000+200000
+ 15490 strings out of 480930
+ 289983 string characters out of 2909550
+ 529917 words of memory out of 3000000
+ 31029 multiletter control sequences out of 15000+200000
  538527 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,14n,64p,1394b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -947,9 +999,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/symbols/msbm10.pfb>
-Output written on CourseWork.pdf (19 pages, 240777 bytes).
+Output written on CourseWork.pdf (22 pages, 255342 bytes).
 PDF statistics:
- 365 PDF objects out of 1000 (max. 8388607)
+ 390 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
