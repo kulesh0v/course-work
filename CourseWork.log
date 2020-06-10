@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  10 JUN 2020 16:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  11 JUN 2020 00:13
 entering extended mode
 **./CourseWork.tex
 (CourseWork.tex
@@ -968,59 +968,49 @@ LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 4
 8.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ts1pcr.fd"
 File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
-) [19]
+) [19] [20]
 Package epstopdf Info: Source file: <res_y1.eps>
-(epstopdf)                    date: 2020-06-10 16:36:14
-(epstopdf)                    size: 24943 bytes
+(epstopdf)                    date: 2020-06-10 23:48:08
+(epstopdf)                    size: 32347 bytes
 (epstopdf)             Output file: <res_y1-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-06-10 16:36:48
-(epstopdf)                    size: 8640 bytes
+(epstopdf)                    date: 2020-06-10 23:48:45
+(epstopdf)                    size: 7353 bytes
 (epstopdf)             Command: <epstopdf --outfile=res_y1-eps-converted-to.pdf
  res_y1.eps>
-(epstopdf)             \includegraphics on input line 105.
+(epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./res_y1-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<res_y1-eps-converted-to.pdf, id=80, 576.1525pt x 367.3725pt>
+<res_y1-eps-converted-to.pdf, id=83, 576.1525pt x 367.3725pt>
 File: res_y1-eps-converted-to.pdf Graphic file (type pdf)
 <use res_y1-eps-converted-to.pdf>
-Package pdftex.def Info: res_y1-eps-converted-to.pdf  used on input line 105.
-(pdftex.def)             Requested size: 256.0748pt x 163.28683pt.
-
-Overfull \hbox (19.06068pt too wide) in paragraph at lines 105--107
- [] 
- []
-
+Package pdftex.def Info: res_y1-eps-converted-to.pdf  used on input line 138.
+(pdftex.def)             Requested size: 426.79134pt x 272.14287pt.
 Package epstopdf Info: Source file: <res_y2.eps>
-(epstopdf)                    date: 2020-06-10 16:37:08
-(epstopdf)                    size: 24945 bytes
+(epstopdf)                    date: 2020-06-10 23:51:40
+(epstopdf)                    size: 32387 bytes
 (epstopdf)             Output file: <res_y2-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-06-10 16:37:17
-(epstopdf)                    size: 8659 bytes
+(epstopdf)                    date: 2020-06-10 23:51:54
+(epstopdf)                    size: 7566 bytes
 (epstopdf)             Command: <epstopdf --outfile=res_y2-eps-converted-to.pdf
  res_y2.eps>
-(epstopdf)             \includegraphics on input line 110.
+(epstopdf)             \includegraphics on input line 142.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./res_y2-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<res_y2-eps-converted-to.pdf, id=81, 576.1525pt x 367.3725pt>
+<res_y2-eps-converted-to.pdf, id=84, 576.1525pt x 367.3725pt>
 File: res_y2-eps-converted-to.pdf Graphic file (type pdf)
 <use res_y2-eps-converted-to.pdf>
-Package pdftex.def Info: res_y2-eps-converted-to.pdf  used on input line 110.
-(pdftex.def)             Requested size: 256.0748pt x 163.28683pt.
+Package pdftex.def Info: res_y2-eps-converted-to.pdf  used on input line 142.
+(pdftex.def)             Requested size: 426.79134pt x 272.14287pt.
+) (conclusions.tex [21 <./res_y1-eps-converted-to.pdf>] [22 <./res_y2-eps-conve
+rted-to.pdf>]) (bibliography.tex [23
 
-Overfull \hbox (19.06068pt too wide) in paragraph at lines 110--111
- [] 
- []
-
-) (conclusions.tex [20 <./res_y1-eps-converted-to.pdf> <./res_y2-eps-converted-
-to.pdf>]) (bibliography.tex [21
-
-]) [22
+]) [24
 
 ] (CourseWork.aux)
 
@@ -1031,13 +1021,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 17239 strings out of 480930
- 312846 string characters out of 2909550
- 562852 words of memory out of 3000000
- 32754 multiletter control sequences out of 15000+200000
+ 17248 strings out of 480930
+ 312939 string characters out of 2909550
+ 574850 words of memory out of 3000000
+ 32763 multiletter control sequences out of 15000+200000
  539916 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,14n,64p,1394b,1626s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,14n,64p,1394b,1627s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\Vlad\AppD
 ata\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Vl
 ad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:
@@ -1054,9 +1044,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX
 lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/uc
 rr8a.pfb>
-Output written on CourseWork.pdf (22 pages, 282397 bytes).
+Output written on CourseWork.pdf (24 pages, 286060 bytes).
 PDF statistics:
- 451 PDF objects out of 1000 (max. 8388607)
+ 465 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

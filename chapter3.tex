@@ -3,7 +3,7 @@
 В этой главе применим схему MPC из главы (\ref{chap2}). И приведём результат, полученный программной реализацией алгортима (\ref{Alg1}).
 
 \section{Пример}
-Рассмотрим пример, который хорошо известен как стабильная система с разомкнутым контуром, которую MPC без терминальных ограничений может сделать нестабильной, если выбранный горизонт прогнозирования слишком мал.
+Рассмотрим пример, который описывает систему из 4 сообщающихся резервуаров \cite{Berberich}. Это хорошо изученная в теории управления и в частности в теории МРС система. Она описывает достаточно медленный и устойчивый динамический процесс. Однако, известно также, что при выборе короткого горизонта управления система может стать неустойчивой. Линеаризованная динамика системы в дискретном времени описывается уравнениями
 
 \begin{displaymath}
 	x_{k+1}=\begin{bmatrix}
@@ -43,7 +43,7 @@
 
 \section{Программная реализация алгоритма}
 Рассмотрим способ реализации алгоритма (\ref{Alg1}) на языке Matlab.
-Сперва зададим матрицу ограничений-равенств для fmincon.
+Сперва зададим матрицу и вектор ограничений-равенств для quadprog.
 \begin{lstlisting}
 for i = 1:4:(L + n) * 4
     Aeq(i, i) = 1;
@@ -56,7 +56,40 @@ for i = 1:4:(L + n) * 4
     Aeq(i + 2, alphaRange) = -yHankel(hIndex, :, 1);
     Aeq(i + 3, alphaRange) = -yHankel(hIndex, :, 2);
 end
+j = 0;
+for i = (L + n) * 4 + 1:numel(Aeq(:, 1))
+    Aeq(i, steadyFirstIndex + j) = 1;
+    j = j + 1; 
+end
+beq(1, (L + n) * 4 + 1:(L + n) * 4 + (L * 4)) = 1;
 \end{lstlisting}
+И сведём задачу к минимизации функции
+\begin{displaymath}
+	\underset{x}\min\, \frac{1}{2}\,x^T H x + f^T
+\end{displaymath}
+Где $H$ и $f$ задаются следующим образом
+\begin{lstlisting}
+quadH = zeros(((L + n) * 4)  + (N - (L + n) + 1) + (L * 4));
+quadF = zeros(1, ((L + n) * 4)  + (N - (L + n) + 1) + (L * 4));
+for i = n * 4 + 1:4:(L + n) * 4
+    quadH(i, i) = coeffR;
+    quadH(i + 1, i + 1) = coeffR;
+    quadH(i + 2, i + 2) = coeffQ;
+    quadH(i + 3, i + 3) = coeffQ;
+    for j = steadyFirstIndex:4:numel(quadH(1, :))
+        quadH(i, j) = -2 * uSteady(1) * coeffR;
+        quadH(i + 1, j + 1) = -2 * uSteady(2) * coeffR;
+        quadH(i + 2, j + 2) = -2 * ySteady(1) * coeffQ;
+        quadH(i + 3, j + 3) = -2 * ySteady(2) * coeffQ;
+    end
+end
+squares = L * 4 * ...
+          (coeffR * uSteady(1)^2 + coeffR * uSteady(2)^2 ...
+          + coeffQ * ySteady(1)^2 + coeffQ * ySteady(2)^2);
+quadF(1, steadyFirstIndex) = squares;
+quadH = quadH * 2;
+\end{lstlisting}
+
 После начнём итерационный процесс от $0$ до $N$.
 В начле которого будем вычеслять вектор ограничений.
 \begin{lstlisting}
@@ -77,21 +110,23 @@ end
         beq(i + 3) = ySteady(2, 1);
     end
 \end{lstlisting}
-Решим задачу (\ref{problem2a} - \ref{problem2d}) с помощью fmincon.
+Решим задачу (\ref{problem2a} - \ref{problem2d}) с помощью quadprog.
 \begin{lstlisting}
-[res, value] = fmincon(objective, startedValues, [], [], Aeq, beq, ...
- [], [], [], options);
+    options = optimoptions('quadprog', ...
+                           'MaxIter', 10000, ....
+                           'TolFun', 1e-15, ...
+                           'TolX', 1e-15);
+    [res, value] = quadprog(quadH, quadF, [], [], ...
+                            Aeq, beq, [], [], [], options);    
 \end{lstlisting}
 И запишем результат.
 \begin{lstlisting}
-    for i = 1:4:(L + n) * 4
-        uRes(j, 1) = res(i);
-        uRes(j, 2) = res(i + 1);
-        [dsResY, dsResX] = dynamicSystemFunc(uRes(j,:)', xRes(j,:)', A, B, C);
-         yRes(j,:) = dsResY;
-        j = j + 1;
-        xRes(j,:) = dsResX';
-    end
+    i = 1 + 4 * n;
+    uRes(j, :) = res(i:i+1);
+    [dsResY, dsResX] = dynamicSystemFunc(uRes(j,:)', xRes(j,:)', A, B, C);
+    yRes(j,:) = dsResY;
+    j = j + 1;
+    xRes(j,:) = dsResX';
 \end{lstlisting}
 
 
@@ -100,16 +135,11 @@ end
 Ниже приведены графики результатов программы, описанной в прошлом пункте. На которых прямая -- соответсвующее значение  $y^s_{1}$, $y^s_{2}$.
 
 \begin{figure}[bh]\centering{
-\begin{minipage}[h]{0.49\linewidth}
-\center{
-\includegraphics[width=90mm]{res_y1.eps}
+\includegraphics[width=150mm]{res_y1.eps}
 }
-\end{minipage}
-\hfill
-\begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=90mm]{res_y2.eps}}
-\end{minipage}
-}
+\end{figure}
+
+\begin{figure}[bh]\centering{\includegraphics[width=150mm]{res_y2.eps}}
 \end{figure}
 
 
