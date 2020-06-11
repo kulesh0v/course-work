@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  11 JUN 2020 00:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  11 JUN 2020 12:57
 entering extended mode
 **./CourseWork.tex
 (CourseWork.tex
@@ -939,7 +939,7 @@ Underfull \hbox (badness 1097) in paragraph at lines 99--100
 [11
 
 ] [12] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
  |[]\T2A/cmr/bx/n/17.28 «адача с тер-ми-наль-ны-ми ограничени€ми-
  []
 
@@ -948,7 +948,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--116
 \c@assump=\count307
  [15]
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 195.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 193.
 
 Missing character: There is no х in font cmr12!
 [16]) (chapter3.tex [17]
@@ -1023,7 +1023,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  17248 strings out of 480930
  312939 string characters out of 2909550
- 574850 words of memory out of 3000000
+ 574852 words of memory out of 3000000
  32763 multiletter control sequences out of 15000+200000
  539916 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1044,7 +1044,7 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX
 lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/uc
 rr8a.pfb>
-Output written on CourseWork.pdf (24 pages, 286060 bytes).
+Output written on CourseWork.pdf (24 pages, 286049 bytes).
 PDF statistics:
  465 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
