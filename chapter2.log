@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  1 JUN 2020 17:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.29)  11 JUN 2020 23:16
 entering extended mode
 **./chapter2.tex
 (chapter2.tex
@@ -256,7 +256,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В д
-       анной главе будут рассматриваться способы решения простейшей прогнози...
+       анной главе будут рассматриваться способы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -272,7 +272,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данн
-          ой главе будут рассматриваться способы решения простейшей прогнози...
+          ой главе будут рассматриваться способы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -288,7 +288,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данной г
-              лаве будут рассматриваться способы решения простейшей прогнози...
+              лаве будут рассматриваться способы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -304,7 +304,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данной глав
-                 е будут рассматриваться способы решения простейшей прогнози...
+                 е будут рассматриваться способы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -320,7 +320,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данной главе бу
-                     дут рассматриваться способы решения простейшей прогнози...
+                     дут рассматриваться способы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -336,7 +336,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данной главе будут
-                         рассматриваться способы решения простейшей прогнози...
+                         рассматриваться способы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -352,7 +352,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данной главе будут расс
-                             матриваться способы решения простейшей прогнози...
+                             матриваться способы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -368,7 +368,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данной главе будут рассмат
-                                риваться способы решения простейшей прогнози...
+                                риваться способы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -384,7 +384,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данной главе будут рассматрива
-                                    ться способы решения простейшей прогнози...
+                                    ться способы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -400,7 +400,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данной главе будут рассматриваться
-                                         способы решения простейшей прогнози...
+                                         способы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -416,7 +416,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данной главе будут рассматриваться спос
-                                             обы решения простейшей прогнози...
+                                             обы построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -432,7 +432,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 В данной главе будут рассматриваться способы
-                                                 решения простейшей прогнози...
+                                                 построения простейшей прогн...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -447,7 +447,23 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...ой главе будут рассматриваться способы реше
+l.4 ...ной главе будут рассматриваться способы пос
+                                                  троения простейшей прогноз...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...главе будут рассматриваться способы построе
                                                   ния простейшей прогнозирую...
 
 The document does not appear to be in UTF-8 encoding.
@@ -463,7 +479,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...главе будут рассматриваться способы решения
+l.4 ...ве будут рассматриваться способы построения
                                                    простейшей прогнозирующей...
 
 The document does not appear to be in UTF-8 encoding.
@@ -479,7 +495,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...е будут рассматриваться способы решения про
+l.4 ...удут рассматриваться способы построения про
                                                   стейшей прогнозирующей зад...
 
 The document does not appear to be in UTF-8 encoding.
@@ -495,7 +511,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...дут рассматриваться способы решения простей
+l.4 ... рассматриваться способы построения простей
                                                   шей прогнозирующей задачи ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -511,7 +527,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...ут рассматриваться способы решения простейш
+l.4 ...рассматриваться способы построения простейш
                                                   ей прогнозирующей задачи н...
 
 The document does not appear to be in UTF-8 encoding.
@@ -527,7 +543,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...ассматриваться способы решения простейшей п
+l.4 ...матриваться способы построения простейшей п
                                                   рогнозирующей задачи на ос...
 
 The document does not appear to be in UTF-8 encoding.
@@ -543,7 +559,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...атриваться способы решения простейшей прогн
+l.4 ...иваться способы построения простейшей прогн
                                                   озирующей задачи на основе...
 
 The document does not appear to be in UTF-8 encoding.
@@ -559,7 +575,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...иваться способы решения простейшей прогнози
+l.4 ...ться способы построения простейшей прогнози
                                                   рующей задачи на основе да...
 
 The document does not appear to be in UTF-8 encoding.
@@ -575,7 +591,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...ься способы решения простейшей прогнозирующ
+l.4 ... способы построения простейшей прогнозирующ
                                                   ей задачи на основе данных...
 
 The document does not appear to be in UTF-8 encoding.
@@ -591,8 +607,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...способы решения простейшей прогнозирующей з
-                                                  адачи на основе данных, а ...
+l.4 ...собы построения простейшей прогнозирующей з
+                                                  адачи на основе данных зад...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -607,8 +623,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...собы решения простейшей прогнозирующей зада
-                                                  чи на основе данных, а так...
+l.4 ...ы построения простейшей прогнозирующей зада
+                                                  чи на основе данных задачи...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -623,8 +639,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...обы решения простейшей прогнозирующей задач
-                                                  и на основе данных, а такж...
+l.4 ... построения простейшей прогнозирующей задач
+                                                  и на основе данных задачи ...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -639,8 +655,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...решения простейшей прогнозирующей задачи на
-                                                   основе данных, а также за...
+l.4 ...троения простейшей прогнозирующей задачи на
+                                                   основе данных задачи с те...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -656,7 +672,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 ...ния простейшей прогнозирующей задачи на осн
-                                                  ове данных, а также задачи...
+                                                  ове данных задачи с термин...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -672,7 +688,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 ... простейшей прогнозирующей задачи на основе
-                                                   данных, а также задачи с ...
+                                                   данных задачи с терминаль...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -688,7 +704,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 ...стейшей прогнозирующей задачи на основе дан
-                                                  ных, а также задачи с терм...
+                                                  ных задачи с терминальными...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -704,52 +720,6 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4 ...йшей прогнозирующей задачи на основе данных
-                                                  , а также задачи с термина...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...шей прогнозирующей задачи на основе данных,
-                                                   а также задачи с терминал...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no , in font nullfont!
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...рогнозирующей задачи на основе данных, а та
-                                                  кже задачи с терминальными...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...нозирующей задачи на основе данных, а также
                                                    задачи с терминальными ог...
 
 The document does not appear to be in UTF-8 encoding.
@@ -765,7 +735,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...рующей задачи на основе данных, а также зад
+l.4 ... прогнозирующей задачи на основе данных зад
                                                   ачи с терминальными ограни...
 
 The document does not appear to be in UTF-8 encoding.
@@ -781,7 +751,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...щей задачи на основе данных, а также задачи
+l.4 ...огнозирующей задачи на основе данных задачи
                                                    с терминальными ограничен...
 
 The document does not appear to be in UTF-8 encoding.
@@ -797,7 +767,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...дачи на основе данных, а также задачи с тер
+l.4 ...рующей задачи на основе данных задачи с тер
                                                   минальными ограничениями-р...
 
 The document does not appear to be in UTF-8 encoding.
@@ -813,7 +783,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...и на основе данных, а также задачи с термин
+l.4 ...щей задачи на основе данных задачи с термин
                                                   альными ограничениями-раве...
 
 The document does not appear to be in UTF-8 encoding.
@@ -829,7 +799,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...а основе данных, а также задачи с терминаль
+l.4 ... задачи на основе данных задачи с терминаль
                                                   ными ограничениями-равенст...
 
 The document does not appear to be in UTF-8 encoding.
@@ -845,7 +815,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...снове данных, а также задачи с терминальным
+l.4 ...дачи на основе данных задачи с терминальным
                                                   и ограничениями-равенствами.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -860,7 +830,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...е данных, а также задачи с терминальными ог
+l.4 ... на основе данных задачи с терминальными ог
                                                   раничениями-равенствами.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -875,7 +845,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...нных, а также задачи с терминальными ограни
+l.4 ...основе данных задачи с терминальными ограни
                                                   чениями-равенствами.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -890,7 +860,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...ных, а также задачи с терминальными огранич
+l.4 ...снове данных задачи с терминальными огранич
                                                   ениями-равенствами.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -905,7 +875,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ..., а также задачи с терминальными ограничени
+l.4 ...ве данных задачи с терминальными ограничени
                                                   ями-равенствами.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -920,7 +890,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ... а также задачи с терминальными ограничения
+l.4 ...е данных задачи с терминальными ограничения
                                                   ми-равенствами.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -935,7 +905,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...также задачи с терминальными ограничениями-
+l.4 ...анных задачи с терминальными ограничениями-
                                                   равенствами.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -950,7 +920,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...е задачи с терминальными ограничениями-раве
+l.4 ...х задачи с терминальными ограничениями-раве
                                                   нствами.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1133,11 +1103,6 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 4--7
-[]
- []
-
-
 ! Package inputenc Error: Invalid UTF-8 byte sequence.
 
 See the inputenc package documentation for explanation.
@@ -1145,7 +1110,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.8 Пу
-      сть $A_{[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
+      сть $\mathbb{I}_{[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1160,12 +1125,21 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.8 Пусть $
-           A_{[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
+           \mathbb{I}_{[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
 in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
+
+! Undefined control sequence.
+l.8 Пусть $\mathbb
+                  {I}_{[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
 ! LaTeX Error: Missing \begin{document}.
@@ -1174,17 +1148,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A
-            _{[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
+l.8 Пусть $\mathbb{I
+                    }_{[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no A in font nullfont!
+Missing character: There is no I in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.8 Пусть $A_
-             {[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
+l.8 Пусть $\mathbb{I}_
+                      {[a,b]}$ -- множество целых чисел на отрезке $[a,b]$.
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -1201,8 +1175,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -- мно
-                            жество целых чисел на отрезке $[a,b]$.
+l.8 Пусть $\mathbb{I}_{[a,b]}$ -- мно
+                                     жество целых чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1216,8 +1190,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -- множес
-                               тво целых чисел на отрезке $[a,b]$.
+l.8 Пусть $\mathbb{I}_{[a,b]}$ -- множес
+                                        тво целых чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1231,8 +1205,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -- множество ц
-                                    елых чисел на отрезке $[a,b]$.
+l.8 Пусть $\mathbb{I}_{[a,b]}$ -- множество ц
+                                             елых чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1246,8 +1220,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -- множество целы
-                                       х чисел на отрезке $[a,b]$.
+l.8 Пусть $\mathbb{I}_{[a,b]}$ -- множество целы
+                                                х чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1261,8 +1235,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -- множество целых
-                                         чисел на отрезке $[a,b]$.
+l.8 Пусть $\mathbb{I}_{[a,b]}$ -- множество целых
+                                                  чисел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1276,8 +1250,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -- множество целых ч
-                                          исел на отрезке $[a,b]$.
+l.8 ...ь $\mathbb{I}_{[a,b]}$ -- множество целых ч
+                                                  исел на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1291,8 +1265,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -- множество целых чисе
-                                             л на отрезке $[a,b]$.
+l.8 ...\mathbb{I}_{[a,b]}$ -- множество целых чисе
+                                                  л на отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1306,8 +1280,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пусть $A_{[a,b]}$ -- множество целых чисел на
-                                                  отрезке $[a,b]$.
+l.8 ...hbb{I}_{[a,b]}$ -- множество целых чисел на
+                                                   отрезке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1321,7 +1295,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...$A_{[a,b]}$ -- множество целых чисел на отр
+l.8 ...I}_{[a,b]}$ -- множество целых чисел на отр
                                                   езке $[a,b]$.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1565,1132 +1539,14 @@ Type  H <return>  for immediate help.
                                                   
 l.9 ...вектора $x$ и положительно определённой мат
                                                   рицы $P=P^T>0$ запишем $\|...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 ...ора $x$ и положительно определённой матрицы
-                                                   $P=P^T>0$ запишем $\|x\|_...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no P in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no P in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.9 ...$ и положительно определённой матрицы $P=P^
-                                                  T>0$ запишем $\|x\|_p=\sqr...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 ...жительно определённой матрицы $P=P^T>0$ зап
-                                                  ишем $\|x\|_p=\sqrt{x^TPx}$.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 ...ельно определённой матрицы $P=P^T>0$ запише
-                                                  м $\|x\|_p=\sqrt{x^TPx}$.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 ... определённой матрицы $P=P^T>0$ запишем $\|
-                                                  x\|_p=\sqrt{x^TPx}$.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no x in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.9 ...ределённой матрицы $P=P^T>0$ запишем $\|x\|
-                                                  _p=\sqrt{x^TPx}$.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no . in font nullfont!
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Да
-       лее определим максимальное и минимальное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее
-           определим максимальное и минимальное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее опр
-              еделим максимальное и минимальное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее опреде
-                 лим максимальное и минимальное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее определим
-                     максимальное и минимальное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее определим мак
-                        симальное и минимальное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее определим максима
-                            льное и минимальное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее определим максимальн
-                               ое и минимальное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее определим максимальное и
-                                    минимальное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее определим максимальное и мин
-                                       имальное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее определим максимальное и минима
-                                          льное собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее определим максимальное и минимальн
-                                             ое собственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 Далее определим максимальное и минимальное с
-                                                 обственные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ... определим максимальное и минимальное собс
-                                                  твенные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...еделим максимальное и минимальное собствен
-                                                  ные значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...лим максимальное и минимальное собственные
-                                                   значения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...максимальное и минимальное собственные зна
-                                                  чения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "F7.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...аксимальное и минимальное собственные знач
-                                                  ения матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...имальное и минимальное собственные значени
-                                                  я матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "FF.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...мальное и минимальное собственные значения
-                                                   матрицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...ное и минимальное собственные значения мат
-                                                  рицы P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...и минимальное собственные значения матрицы
-                                                   P
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no P in font nullfont!
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 $\lambda_{\min}(P)$ и $\lambda
-                                   _{\max}(P)$.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.12 $\lambda_{\min}(P)$ и $\lambda_
-                                    {\max}(P)$.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no . in font nullfont!
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 Дл
-       я матриц $P_1=P_1^T, P_2=P^T_2$ запишем,
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "FF.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 Для
-         матриц $P_1=P_1^T, P_2=P^T_2$ запишем,
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 Для мат
-            риц $P_1=P_1^T, P_2=P^T_2$ запишем,
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 Для матриц $
-                 P_1=P_1^T, P_2=P^T_2$ запишем,
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no P in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.14 Для матриц $P_
-                   1=P_1^T, P_2=P^T_2$ запишем,
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 Для матриц $P_1=P_1^T, P_2=P^T_2$ зап
-                                          ишем,
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 Для матриц $P_1=P_1^T, P_2=P^T_2$ запише
-                                             м,
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \begin
-           {displaymath}
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.16 	\lambda
-             _{\min}(P1,P2)=\min\{\lambda_{\min}(P_1),\lambda_{\min}(P_2)\},
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \end{displaymath}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{displaymath}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \end{displaymath}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.17 \end{displaymath}
-                      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.17 \end{displaymath}
-                      
-Things are pretty mixed up, but I think the worst is over.
-
-
-Overfull \hbox (35.25711pt too wide) in paragraph at lines 8--18
-[]$[]$
- []
-
-
-Overfull \hbox (19.63295pt too wide) in paragraph at lines 8--18
-\OML/cmm/m/it/10 :$$$$[] >
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 8--18
-\OT1/cmr/m/n/10 0$
- []
-
-
-Overfull \hbox (20.17787pt too wide) in paragraph at lines 8--18
-\OMS/cmsy/m/n/10 k[] \OT1/cmr/m/n/10 =
- []
-
-
-Overfull \hbox (33.87259pt too wide) in paragraph at lines 8--18
-[]$ 
- []
-
-
-Overfull \hbox (35.17026pt too wide) in paragraph at lines 8--18
-\OML/cmm/m/it/10 []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 )$
- []
-
-
-Overfull \hbox (30.84386pt too wide) in paragraph at lines 8--18
-[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 )$ 
- []
-
-
-Overfull \hbox (15.04164pt too wide) in paragraph at lines 8--18
-[] \OT1/cmr/m/n/10 =
- []
-
-
-Overfull \hbox (40.01488pt too wide) in paragraph at lines 8--18
-\OML/cmm/m/it/10 P[]; P[] \OT1/cmr/m/n/10 =
- []
-
-
-Overfull \hbox (14.10869pt too wide) in paragraph at lines 8--18
-\OML/cmm/m/it/10 P[]$
- []
-
-
-Overfull \hbox (67.97925pt too wide) in paragraph at lines 8--18
-\OML/cmm/m/it/10 []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 1\OML/cm
-m/m/it/10 ; P\OT1/cmr/m/n/10 2) =
- []
-
-
-Overfull \hbox (110.42392pt too wide) in paragraph at lines 8--18
-[]\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P[]\O
-T1/cmr/m/n/10 )\OML/cmm/m/it/10 ; []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P[]\OT1/
-cmr/m/n/10 )\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 ;$ 
- []
-
-
-Overfull \hbox (187.64621pt too wide) detected at line 20
-\OML/cmm/m/it/10 []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 1\OML/cm
-m/m/it/10 ; P\OT1/cmr/m/n/10 2) = []\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 []\OT1/
-cmr/m/n/10 (\OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; []\OT1/cmr
-/m/n/10 (\OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 g\OML/cmm/m/it/1
-0 :
- []
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 Та
-       кже $\|x\|_1,\|x\|_2$, \dots,$\|x\|_\infty$ - Евклидовы $\ell_1, \dot...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 Также
-           $\|x\|_1,\|x\|_2$, \dots,$\|x\|_\infty$ - Евклидовы $\ell_1, \dot...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no , in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no - in font nullfont!
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...|x\|_1,\|x\|_2$, \dots,$\|x\|_\infty$ - Ев
-                                                  клидовы $\ell_1, \dots, \e...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...|_1,\|x\|_2$, \dots,$\|x\|_\infty$ - Евкли
-                                                  довы $\ell_1, \dots, \ell_...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...,\|x\|_2$, \dots,$\|x\|_\infty$ - Евклидов
-                                                  ы $\ell_1, \dots, \ell_\in...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "FB.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...\|x\|_2$, \dots,$\|x\|_\infty$ - Евклидовы
-                                                   $\ell_1, \dots, \ell_\inf...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...Евклидовы $\ell_1, \dots, \ell_\infty$ нор
-                                                  мы $x$ соответсвенно.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...идовы $\ell_1, \dots, \ell_\infty$ нормы $
-                                                  x$ соответсвенно.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no x in font nullfont!
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...\ell_1, \dots, \ell_\infty$ нормы $x$ соот
-                                                  ветсвенно.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...l_1, \dots, \ell_\infty$ нормы $x$ соответ
-                                                  свенно.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ... \dots, \ell_\infty$ нормы $x$ соответсвен
-                                                  но.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...ots, \ell_\infty$ нормы $x$ соответсвенно.
-                                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 Дл
-       я $\delta > 0$, мы определим $\mathbb{B}_\delta=\{x \in \mathbb{R}^n ...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "FF.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 Для
-         $\delta > 0$, мы определим $\mathbb{B}_\delta=\{x \in \mathbb{R}^n ...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.23 Для $\delta
-                 > 0$, мы определим $\mathbb{B}_\delta=\{x \in \mathbb{R}^n ...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no , in font nullfont!
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 Для $\delta > 0$, мы о
-                           пределим $\mathbb{B}_\delta=\{x \in \mathbb{R}^n ...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 Для $\delta > 0$, мы опре
-                              делим $\mathbb{B}_\delta=\{x \in \mathbb{R}^n ...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 Для $\delta > 0$, мы определ
-                                 им $\mathbb{B}_\delta=\{x \in \mathbb{R}^n ...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 Для $\delta > 0$, мы определим $
-                                     \mathbb{B}_\delta=\{x \in \mathbb{R}^n ...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-! Undefined control sequence.
-l.23 Для $\delta > 0$, мы определим $\mathbb
-                                            {B}_\delta=\{x \in \mathbb{R}^n ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no B in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.23 Для $\delta > 0$, мы определим $\mathbb{B}_
-                                                \delta=\{x \in \mathbb{R}^n ...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Undefined control sequence.
-l.23 ...ределим $\mathbb{B}_\delta=\{x \in \mathbb
-                                                  {R}^n \, | \, \|x\|_2 \leq...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no . in font nullfont!
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 Из
-        последовательности $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 Из пос
-           ледовательности $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 Из послед
-              овательности $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 Из последова
-                 тельности $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 Из последователь
-                     ности $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 Из последовательнос
-                        ти $\{x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 Из последовательности $\{
-                              x_k\}^{N-1}_{k=0}$ составим матрицу Ганкеля
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 139 strings out of 480930
- 1324 string characters out of 2909550
- 240229 words of memory out of 3000000
- 16110 multiletter control sequences out of 15000+200000
+ 98 strings out of 480930
+ 1054 string characters out of 2909550
+ 239229 words of memory out of 3000000
+ 16069 multiletter control sequences out of 15000+200000
  532338 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,3n,15p,186b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 18i,2n,15p,180b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
